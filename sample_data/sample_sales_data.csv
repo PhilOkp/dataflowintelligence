@@ -1,0 +1,10 @@
+Order_ID,Order_Date,Region,Product,Quantity,Unit_Price,Customer_Type,Sales_Rep,Customer_Feedback,Revenue
+1001,2026-01-03,Lagos,Laptop,2,450000,Business,Ada,Good service,900000
+1002,2026-01-04,Abuja,Phone,3,250000,Retail,Bola, Fast delivery ,750000
+1003,2026-01-05,Lagos,Tablet,1,180000,Retail,Chika,Value for money,180000
+1004,2026-01-07,Port Harcourt,Laptop,1,450000,Business,Ada,,450000
+1005,2026-01-08,Abuja,Phone,4,250000,Retail,Bola,Good service,1000000
+1006,2026-01-09,Lagos,Tablet,2,180000,Business,Chika,Late delivery,360000
+1007,2026-01-10,Kano,Laptop,1,450000,Retail,Ada,Excellent,450000
+1008,2026-01-11,Lagos,Phone,2,250000,Retail,Bola,Good service,500000
+1008,2026-01-11,Lagos,Phone,2,250000,Retail,Bola,Good service,500000
